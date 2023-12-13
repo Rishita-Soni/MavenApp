@@ -7,14 +7,15 @@
             text-align: center;
         }
         body {
-            background-color:aquamarine;
+            background-color: beige;
         }
-        h2 {
+        h1 {
             text-align: center;
         }
         </style>
 <body>
-<h1 text-align="center" > "Money can buy you a fine dog, but only love can make him wag his tail."</h1>
+<h1>Dog Breeds</h1>
+<h1> "Money can buy you a fine dog, but only love can make him wag his tail."</h1>
 <h2>Pitbull</h2><br>
 <a href = "Pitbull.html"><img src = "https://vrcpitbull.com/wp-content/uploads/2011/02/VAMPVAMP%E2%80%A2.jpg", alt = "Pitbull", width="35%", height="35%"></a>
 <h2>Husky</h2><br>
