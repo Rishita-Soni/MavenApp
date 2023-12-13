@@ -3,7 +3,7 @@
         <style>
             h2 {
             font-family: Arial, sans-serif;
-            font-size:50%;
+            font-size:200%;
             text-align: center;
         }
         body {
@@ -14,7 +14,7 @@
         }
         </style>
 <body>
-<h1> "Money can buy you a fine dog, but only love can make him wag his tail."</h1>
+<h1 text-align="center" > "Money can buy you a fine dog, but only love can make him wag his tail."</h1>
 <h2>Pitbull</h2><br>
 <a href = "Pitbull.html"><img src = "https://vrcpitbull.com/wp-content/uploads/2011/02/VAMPVAMP%E2%80%A2.jpg", alt = "Pitbull", width="35%", height="35%"></a>
 <h2>Husky</h2><br>
